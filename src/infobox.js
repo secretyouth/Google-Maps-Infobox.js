@@ -1,3 +1,6 @@
+/*jslint browser:true */
+/*global google */
+
 /**
  * @name InfoBox
  * @version 1.1.9 [October 2, 2011]
@@ -33,9 +36,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
-/*jslint browser:true */
-/*global google */
 
 /**
  * @name InfoBoxOptions
