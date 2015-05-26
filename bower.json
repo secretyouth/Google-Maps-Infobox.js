@@ -6,7 +6,7 @@
     "Oytun Yuksel <oytun.yuksel@yellow.com.tr>"
   ],
   "description": "Custom infobox for Google Maps API v3.",
-  "main": "src/infobox.js",
+  //"main": "src/infobox.js",
   "moduleType": [
     "globals"
   ],
