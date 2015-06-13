@@ -1,6 +1,7 @@
 {
   "name": "google-maps-infoboxjs",
   "version": "1.0.0",
+  "main": "src/infobox.js",
   "homepage": "https://github.com/oytunyuksel/Google-Maps-Infobox.js",
   "authors": [
     "Oytun Yuksel <oytun.yuksel@yellow.com.tr>"
